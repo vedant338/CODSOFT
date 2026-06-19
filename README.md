@@ -1,4 +1,4 @@
-# CodSoft Data Science Projects
+# BASIC Data Science Projects
 
 This repository contains multiple machine learning projects completed using Python.
 
